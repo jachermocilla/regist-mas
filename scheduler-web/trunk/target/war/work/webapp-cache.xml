@@ -1,0 +1,39 @@
+<webapp-structure>
+  <registeredFiles>
+    <entry>
+      <string>currentBuild</string>
+      <path-set>
+        <pathsSet class="linked-hash-set">
+          <string>web-inf/web.xml</string>
+          <string>index.jsp</string>
+          <string>regist.jsp</string>
+          <string>form5sked.jsp</string>
+          <string>classlist.jsp</string>
+          <string>viewsked.jsp</string>
+          <string>allstudents.jsp</string>
+          <string>current.jsp</string>
+          <string>WEB-INF/classes/web-inf/web.xml</string>
+          <string>WEB-INF/classes/viewsked.jsp</string>
+          <string>WEB-INF/classes/regist.jsp</string>
+          <string>WEB-INF/classes/index.jsp</string>
+          <string>WEB-INF/classes/form5sked.jsp</string>
+          <string>WEB-INF/classes/current.jsp</string>
+          <string>WEB-INF/classes/classlist.jsp</string>
+          <string>WEB-INF/classes/allstudents.jsp</string>
+          <string>WEB-INF/classes/WRITEIN-2004-SECOND-CMSC</string>
+          <string>WEB-INF/classes/CLASSES-2004-SECOND-CMSC</string>
+          <string>WEB-INF/lib/courselector-1.0-SNAPSHOT.jar</string>
+          <string>WEB-INF/lib/jcpm-1.0.1.jar</string>
+          <string>WEB-INF/lib/r2scheduler-1.0-SNAPSHOT.jar</string>
+          <string>WEB-INF/lib/jung-1.7.6.jar</string>
+          <string>WEB-INF/lib/commons-collections-3.1.jar</string>
+          <string>WEB-INF/lib/colt-1.2.0.jar</string>
+          <string>WEB-INF/lib/concurrent-1.3.4.jar</string>
+          <string>WEB-INF/lib/log4j-1.2.15.jar</string>
+          <string>WEB-INF/lib/mail-1.4.jar</string>
+          <string>WEB-INF/lib/activation-1.1.jar</string>
+        </pathsSet>
+      </path-set>
+    </entry>
+  </registeredFiles>
+</webapp-structure>
